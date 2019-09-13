@@ -1,5 +1,7 @@
 # Changelog
 
+## 0.111.1
+
 ## 0.111.0
 
 <details><summary>google/cloud-automl 0.5.0</summary>
